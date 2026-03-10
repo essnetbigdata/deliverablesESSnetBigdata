@@ -47,7 +47,7 @@ This repository contains all deliverables from the ESSnet Big Data project, orga
 - **SGA2_6_8**: Example of calculated concrete estimates for one of the economic indicators with quality assessment of the input, throughput and output ([WP6/SGA2_6_8.pdf](./WP6/SGA2_6_8.pdf))
 - **SGA2_6_9**: Report and recommendation about IT infrastructure needed for the storage, analysing, combining data sources and the process of ([WP6/SGA2_6_9.pdf](./WP6/SGA2_6_9.pdf))
 
-## Work Package 7 - Smart energy
+## Work Package 7 - Multi domains
 
 - **SGA1_7_1**: Report on access, quality issues, methodology (focus on combining data) and technical aspects ([WP7/SGA1_7_1.pdf](./WP7/SGA1_7_1.pdf))
 - **SGA2_7_7**: The General Report for each Case Study/Domain including recommendation on legal aspects, availability ([WP7/SGA2_7_7.pdf](./WP7/SGA2_7_7.pdf))
